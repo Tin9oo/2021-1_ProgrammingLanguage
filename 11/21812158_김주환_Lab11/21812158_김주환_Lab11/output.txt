@@ -1,0 +1,76 @@
+Testing Event Handling with FIFO Circular Queue
+Initializing FIFO_CirQ of capacity (100)
+start of Round( 0) ****
+generate and enque 100 events
+>>> Enqueue event = Ev(no:  0, pri:127) 
+  1 Elements in CirQ_Event (index_front: 0) :
+ Ev(no:  0, pri:127) 
+>>> Enqueue event = Ev(no:  1, pri:126) 
+  2 Elements in CirQ_Event (index_front: 0) :
+ Ev(no:  0, pri:127) Ev(no:  1, pri:126) 
+>>> Enqueue event = Ev(no:  2, pri:125) 
+  3 Elements in CirQ_Event (index_front: 0) :
+ Ev(no:  0, pri:127) Ev(no:  1, pri:126) Ev(no:  2, pri:125) 
+>>> Enqueue event = Ev(no:  3, pri:124) 
+  4 Elements in CirQ_Event (index_front: 0) :
+ Ev(no:  0, pri:127) Ev(no:  1, pri:126) Ev(no:  2, pri:125) Ev(no:  3, pri:124) 
+>>> Enqueue event = Ev(no:  4, pri:123) 
+  5 Elements in CirQ_Event (index_front: 0) :
+ Ev(no:  0, pri:127) Ev(no:  1, pri:126) Ev(no:  2, pri:125) Ev(no:  3, pri:124) Ev(no:  4, pri:123) 
+>>> Enqueue event = Ev(no:  5, pri:122) 
+  6 Elements in CirQ_Event (index_front: 0) :
+ Ev(no:  0, pri:127) Ev(no:  1, pri:126) Ev(no:  2, pri:125) Ev(no:  3, pri:124) Ev(no:  4, pri:123) 
+ Ev(no:  5, pri:122) 
+>>> Enqueue event = Ev(no:  6, pri:121) 
+  7 Elements in CirQ_Event (index_front: 0) :
+ Ev(no:  0, pri:127) Ev(no:  1, pri:126) Ev(no:  2, pri:125) Ev(no:  3, pri:124) Ev(no:  4, pri:123) 
+ Ev(no:  5, pri:122) Ev(no:  6, pri:121) 
+>>> Enqueue event = Ev(no:  7, pri:120) 
+  8 Elements in CirQ_Event (index_front: 0) :
+ Ev(no:  0, pri:127) Ev(no:  1, pri:126) Ev(no:  2, pri:125) Ev(no:  3, pri:124) Ev(no:  4, pri:123) 
+ Ev(no:  5, pri:122) Ev(no:  6, pri:121) Ev(no:  7, pri:120) 
+>>> Enqueue event = Ev(no:  8, pri:119) 
+  9 Elements in CirQ_Event (index_front: 0) :
+ Ev(no:  0, pri:127) Ev(no:  1, pri:126) Ev(no:  2, pri:125) Ev(no:  3, pri:124) Ev(no:  4, pri:123) 
+ Ev(no:  5, pri:122) Ev(no:  6, pri:121) Ev(no:  7, pri:120) Ev(no:  8, pri:119) 
+>>> Enqueue event = Ev(no:  9, pri:118) 
+ 10 Elements in CirQ_Event (index_front: 0) :
+ Ev(no:  0, pri:127) Ev(no:  1, pri:126) Ev(no:  2, pri:125) Ev(no:  3, pri:124) Ev(no:  4, pri:123) 
+ Ev(no:  5, pri:122) Ev(no:  6, pri:121) Ev(no:  7, pri:120) Ev(no:  8, pri:119) Ev(no:  9, pri:118) 
+ !!! CirQ_Event is full --> skip generation and enqueueing of event. 
+dequeue 100 events
+<<< Dequed event = Ev(no:  0, pri:127) 
+  9 Elements in CirQ_Event (index_front: 1) :
+ Ev(no:  1, pri:126) Ev(no:  2, pri:125) Ev(no:  3, pri:124) Ev(no:  4, pri:123) Ev(no:  5, pri:122) 
+ Ev(no:  6, pri:121) Ev(no:  7, pri:120) Ev(no:  8, pri:119) Ev(no:  9, pri:118) 
+<<< Dequed event = Ev(no:  1, pri:126) 
+  8 Elements in CirQ_Event (index_front: 2) :
+ Ev(no:  2, pri:125) Ev(no:  3, pri:124) Ev(no:  4, pri:123) Ev(no:  5, pri:122) Ev(no:  6, pri:121) 
+ Ev(no:  7, pri:120) Ev(no:  8, pri:119) Ev(no:  9, pri:118) 
+<<< Dequed event = Ev(no:  2, pri:125) 
+  7 Elements in CirQ_Event (index_front: 3) :
+ Ev(no:  3, pri:124) Ev(no:  4, pri:123) Ev(no:  5, pri:122) Ev(no:  6, pri:121) Ev(no:  7, pri:120) 
+ Ev(no:  8, pri:119) Ev(no:  9, pri:118) 
+<<< Dequed event = Ev(no:  3, pri:124) 
+  6 Elements in CirQ_Event (index_front: 4) :
+ Ev(no:  4, pri:123) Ev(no:  5, pri:122) Ev(no:  6, pri:121) Ev(no:  7, pri:120) Ev(no:  8, pri:119) 
+ Ev(no:  9, pri:118) 
+<<< Dequed event = Ev(no:  4, pri:123) 
+  5 Elements in CirQ_Event (index_front: 5) :
+ Ev(no:  5, pri:122) Ev(no:  6, pri:121) Ev(no:  7, pri:120) Ev(no:  8, pri:119) Ev(no:  9, pri:118) 
+<<< Dequed event = Ev(no:  5, pri:122) 
+  4 Elements in CirQ_Event (index_front: 6) :
+ Ev(no:  6, pri:121) Ev(no:  7, pri:120) Ev(no:  8, pri:119) Ev(no:  9, pri:118) 
+<<< Dequed event = Ev(no:  6, pri:121) 
+  3 Elements in CirQ_Event (index_front: 7) :
+ Ev(no:  7, pri:120) Ev(no:  8, pri:119) Ev(no:  9, pri:118) 
+<<< Dequed event = Ev(no:  7, pri:120) 
+  2 Elements in CirQ_Event (index_front: 8) :
+ Ev(no:  8, pri:119) Ev(no:  9, pri:118) 
+<<< Dequed event = Ev(no:  8, pri:119) 
+  1 Elements in CirQ_Event (index_front: 9) :
+ Ev(no:  9, pri:118) 
+<<< Dequed event = Ev(no:  9, pri:118) 
+  0 Elements in CirQ_Event (index_front: 0) :
+ pCirQ_Event is Empty
+ !!! CirQ_Event is full --> skip generation and enqueuei

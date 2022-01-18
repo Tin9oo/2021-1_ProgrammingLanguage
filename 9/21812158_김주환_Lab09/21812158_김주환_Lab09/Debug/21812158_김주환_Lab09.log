@@ -1,0 +1,9 @@
+﻿  Date.cpp
+  Student.cpp
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\9\21812158_김주환_Lab09\21812158_김주환_Lab09\Student.cpp(40,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StudentRecords.cpp
+  Telephone_Number.cpp
+  main.cpp
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\9\21812158_김주환_Lab09\21812158_김주환_Lab09\main.cpp(16,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  코드를 생성하고 있습니다...
+  21812158_김주환_Lab09.vcxproj -> D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\9\21812158_김주환_Lab09\Debug\21812158_김주환_Lab09.exe

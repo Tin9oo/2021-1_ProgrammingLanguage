@@ -1,0 +1,8 @@
+﻿  example.c
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\2\21812158_김주환_Oral\21812158_김주환_Oral\example.c(82,24): warning C4307: '+': 부호 있는 정수 계열 상수 오버플로입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\2\21812158_김주환_Oral\21812158_김주환_Oral\example.c(86,24): warning C4307: '-': 부호 있는 정수 계열 상수 오버플로입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\2\21812158_김주환_Oral\21812158_김주환_Oral\example.c(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\2\21812158_김주환_Oral\21812158_김주환_Oral\example.c(18,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\2\21812158_김주환_Oral\21812158_김주환_Oral\example.c(70,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\2\21812158_김주환_Oral\21812158_김주환_Oral\example.c(92,25): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+  21812158_김주환_Oral.vcxproj -> D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\2\21812158_김주환_Oral\Debug\21812158_김주환_Oral.exe

@@ -1,0 +1,9 @@
+﻿  Bit_wise_calc.c
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\2\21812158_김주환_Lab02_2\21812158_김주환_Lab02_2\Bit_wise_calc.c(25,79): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\2\21812158_김주환_Lab02_2\21812158_김주환_Lab02_2\Bit_wise_calc.c(25,79): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 4개가 제공되었습니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\2\21812158_김주환_Lab02_2\21812158_김주환_Lab02_2\Bit_wise_calc.c(30,79): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\2\21812158_김주환_Lab02_2\21812158_김주환_Lab02_2\Bit_wise_calc.c(30,79): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 4개가 제공되었습니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\2\21812158_김주환_Lab02_2\21812158_김주환_Lab02_2\Bit_wise_calc.c(24,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\2\21812158_김주환_Lab02_2\21812158_김주환_Lab02_2\Bit_wise_calc.c(29,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\2\21812158_김주환_Lab02_2\21812158_김주환_Lab02_2\Bit_wise_calc.c(101,30): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+  21812158_김주환_Lab02_2.vcxproj -> D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\2\21812158_김주환_Lab02_2\Debug\21812158_김주환_Lab02_2.exe

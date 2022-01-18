@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Mtrx.cpp
+C:\Users\USER\Desktop\Exam1\Exam1C_21812158_김주환\Exam1C_21812158_김주환\Mtrx.cpp(10,14): warning C4473: 'fscanf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\USER\Desktop\Exam1\Exam1C_21812158_김주환\Exam1C_21812158_김주환\Mtrx.cpp(10,14): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+C:\Users\USER\Desktop\Exam1\Exam1C_21812158_김주환\Exam1C_21812158_김주환\Mtrx.cpp(10,14): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%lf'에 필요합니다.
+  코드를 생성하고 있습니다...
+  Exam1C_21812158_김주환.vcxproj -> C:\Users\USER\Desktop\Exam1\Exam1C_21812158_김주환\x64\Debug\Exam1C_21812158_김주환.exe

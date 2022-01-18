@@ -1,0 +1,5 @@
+﻿  main_Matrix_Operations.cpp
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\8\21812158_김주환_HW08_1\21812158_김주환_HW08_1\main_Matrix_Operations.cpp(15,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\8\21812158_김주환_HW08_1\21812158_김주환_HW08_1\main_Matrix_Operations.cpp(29,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\8\21812158_김주환_HW08_1\21812158_김주환_HW08_1\main_Matrix_Operations.cpp(34,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  21812158_김주환_HW08_1.vcxproj -> D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\8\21812158_김주환_HW08_1\Debug\21812158_김주환_HW08_1.exe

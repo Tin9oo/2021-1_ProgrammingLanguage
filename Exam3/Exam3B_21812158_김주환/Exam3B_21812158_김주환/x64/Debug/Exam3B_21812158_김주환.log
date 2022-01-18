@@ -1,0 +1,10 @@
+﻿  CirQ_Task.cpp
+C:\Users\USER\Desktop\Exam3\Exam3B_21812158_김주환\Exam3B_21812158_김주환\CirQ_Task.cpp(22,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\USER\Desktop\Exam3\Exam3B_21812158_김주환\Exam3B_21812158_김주환\CirQ_Task.cpp(48,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\USER\Desktop\Exam3\Exam3B_21812158_김주환\Exam3B_21812158_김주환\CirQ_Task.cpp(77,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  main.cpp
+C:\Users\USER\Desktop\Exam3\Exam3B_21812158_김주환\Exam3B_21812158_김주환\main.cpp(21,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\USER\Desktop\Exam3\Exam3B_21812158_김주환\Exam3B_21812158_김주환\main.cpp(23,7): warning C4101: 'task' :참조되지 않은 지역 변수입니다.
+  Task.cpp
+  코드를 생성하고 있습니다...
+  Exam3B_21812158_김주환.vcxproj -> C:\Users\USER\Desktop\Exam3\Exam3B_21812158_김주환\x64\Debug\Exam3B_21812158_김주환.exe

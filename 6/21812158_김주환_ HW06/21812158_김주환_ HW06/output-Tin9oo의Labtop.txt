@@ -1,0 +1,590 @@
+
+=================================================================================
+Randomly generated Word Array (size : 10000)
+Tne                 Kgq                 Naczmlisxjziq       Fqphbepezrbc        Gg                  Aeb                 Zrsxzwvt            Atlrl               Dcds                Nthkzyvmdiamhff     
+Bxlshrgg            Fpqbqbacbtccm       Bzzvvcqegoyu        Jdaijatwa           Ttkj                Xkufllhnbgkiq       Ynxkttu             Sejlz               Jvnadzxhm           Ykherqfxgnw         
+Hhdexsiiljh         Eehqhqvcpncmbp      Fvtyifpdfpcgwec     Pzgpjlrpbeygp       G                   Xiyzsmxjxxh         Vux                 Sxsipcnm            Voswrpzlpoppuwo     Kdcbhdiuz           
+Jrrtjgafo           Pbczuyrjgxiwk       D                   Sxmwsqqvypfls       Nualtfx             Ogubuw              Pxijtpelzutdig      Gsqpiowpp           Koqxfggadvuus       Bcsq                
+Hmqmhzearudlu       Dxobafaod           Ivgdnsjbfetgw       Hjbtfpytn           Rizmwggqstnd        Ducxkigzcuub        Bvvvhdovvhbk        Myujt               Gkbwillllczk        Rvkllbwfpzyyaot     
+. . . . .
+H                   Ykuwtjwscjof        Dsjbtmiwwje         Aovqzkkbjpj         Cmqthbjfjuxwllq     Eyaj                Cjodffuvdlev        Ojtrispksggada      Ydcryqcuewo         Kikhhyxkkuycax      
+Pjncx               Hd                  Rf                  Posvrrq             Mhwgkq              Jjdgmwhvlchih       Onogjspjkchglh      Uzhxggjt            Yjgtiw              Jia                 
+Entafxfb            Hnuijkl             Jleidiigcqec        Ijjomuighxtva       Ftaiwqs             Smoquj              Nyy                 Jhkcirz             Haxyjmxlfarvond     Tcnvwnhy            
+Sfla                Cbeheovh            Pxdwpjwjgsrye       Akorzd              Rclmmz              Pj                  Awecmxknerop        Olr                 N                   Orswgqt             
+Pigkfqzfdlhmat      Vsouk               Gvdfdnuylkdpeq      Ixrxhreyx           Eooynjfziwlyfcp     Uiwlw               Oxz                 Lsru                Ckbyclpx            F                   
+
+Quick sorting for Word Array (size : 10000) .....
+QuickSort_WordArray (size : 10000) took      4.668[millisecond], 
+After sorting word array (size : 10000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   Aa                  Aa                  Aaajdcbj            Aabomifqjebpyz      Aaecxsab            Aajhuvfzun          Aaqiafxcpsvaqs      Aatnuhztchte        
+Aazuhdgjrlvlg       Ab                  Abbxvmck            Abeufy              Abggv               Abhluigaztlp        Abqzslbvyuse        Abudbvhirescv       Abvxywdmbt          Abw                 
+Abzct               Abzvrzqutm          Ac                  Acanm               Acbi                Acddghffxwwq        Acevwa              Acfbuoh             Acimqmupdmp         Acmhbtjxhtpu        
+. . . . .
+Zx                  Zxaz                Zxbplg              Zxc                 Zxdnvqmq            Zxgysvgoancia       Zxhzumogvccn        Zxipvkybkqfd        Zxiwj               Zxlf                
+Zxmrr               Zxmui               Zxnfr               Zxqqyiiiti          Zxsc                Zxydrwcwx           Zxyfyqskhtfdh       Zxyhternzahhnb      Zxynfwevw           Zxzqbrp             
+Zy                  Zy                  Zydnvy              Zydtfyawjcddic      Zyfeojtpuyvwsu      Zyjyxmp             Zyki                Zylitayorqkghr      Zymfnwe             Zyoemzxsmho         
+Zypna               Zytmmpqglopuw       Zytuzzcbtbukau      Zyuarbeww           Zywlmvkjhybhhp      Zyxtsw              Zyyameualh          Zyygass             Zz                  Zz                  
+Zzacvzril           Zzccxxeslqn         Zzchhzke            Zzklrednldrl        Zzlqphd             Zzpdwqmesiatg       Zzv                 Zzwiwiefblfhsoq     Zzxausyrhkmc        Zzyhgoswkmtn        
+
+Word Array (size : 10000) after Shuffling
+Nhoeixmspgyjf       Mavrk               Ylyib               Xvdcxueedhcoz       A                   A                   Ta                  Dpzouu              Wonjiuxpjveh        Iwwcmjz             
+A                   Xyv                 A                   Xw                  Fecdprjufaxg        Eyookzwcmpr         A                   A                   Buprtf              A                   
+Ijjomuighxtva       Pzfjyg              Q                   Blsuqmtsqmwu        Aaajdcbj            Fysb                Cobqejmon           Gtxrxpcjhxfhbc      Zjnxgasuopyvp       Apvgbiggqlhw        
+Pfzvdozbb           Rgukedssykajtmn     Bjvzmqmga           Abeufy              Eff                 Wtmtlhntbboxb       Abqzslbvyuse        Fdyfvgecvo          Abvxywdmbt          Quxsehlsl           
+Ixrxhreyx           Abzvrzqutm          Irqpkjjyb           Acanm               Hrkqzpewat          Azzdsfqp            Qjfr                Unuchywr            Bakcehi             Blc                 
+. . . . .
+Zx                  Kmspmfqrptbtczr     Vxjq                Iglosaiddirie       Kpklicqljzixw       Mbcvsntndzr         Zxhzumogvccn        Zxipvkybkqfd        Zxiwj               Gsaucgzadckhz       
+Hjoorgzjlsor        Lofmodzsvc          Kcuyu               Lio                 Apwmmkcacu          V                   Zxyfyqskhtfdh       X                   Yitczyajper         Mnhsbfm             
+Jwvlwmkqi           Zy                  Pmymzrj             Heeemivmkhfiifa     Rqikvitrlxka        Lzvrr               Nv                  Tccrdoiq            Otsstsq             Zyoemzxsmho         
+Zypna               Zytmmpqglopuw       Coc                 Imbcjf              Zywlmvkjhybhhp      Paef                Wm                  Nsxgqren            Zz                  Zz                  
+Imcrqkihoski        Fgfrmp              Bstooxivejff        Zzklrednldrl        Zzlqphd             Zzpdwqmesiatg       Tznsftghvewpsfw     Zzwiwiefblfhsoq     Vivkscsuo           Zzyhgoswkmtn        
+
+Selection sorting for Word Array (size : 10000) .....
+SelectionSort_WordArray (size : 10000) took    147.647 [millisecond]
+
+After sorting word array (size : 10000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   Aa                  Aa                  Aaajdcbj            Aabomifqjebpyz      Aaecxsab            Aajhuvfzun          Aaqiafxcpsvaqs      Aatnuhztchte        
+Aazuhdgjrlvlg       Ab                  Abbxvmck            Abeufy              Abggv               Abhluigaztlp        Abqzslbvyuse        Abudbvhirescv       Abvxywdmbt          Abw                 
+Abzct               Abzvrzqutm          Ac                  Acanm               Acbi                Acddghffxwwq        Acevwa              Acfbuoh             Acimqmupdmp         Acmhbtjxhtpu        
+. . . . .
+Zx                  Zxaz                Zxbplg              Zxc                 Zxdnvqmq            Zxgysvgoancia       Zxhzumogvccn        Zxipvkybkqfd        Zxiwj               Zxlf                
+Zxmrr               Zxmui               Zxnfr               Zxqqyiiiti          Zxsc                Zxydrwcwx           Zxyfyqskhtfdh       Zxyhternzahhnb      Zxynfwevw           Zxzqbrp             
+Zy                  Zy                  Zydnvy              Zydtfyawjcddic      Zyfeojtpuyvwsu      Zyjyxmp             Zyki                Zylitayorqkghr      Zymfnwe             Zyoemzxsmho         
+Zypna               Zytmmpqglopuw       Zytuzzcbtbukau      Zyuarbeww           Zywlmvkjhybhhp      Zyxtsw              Zyyameualh          Zyygass             Zz                  Zz                  
+Zzacvzril           Zzccxxeslqn         Zzchhzke            Zzklrednldrl        Zzlqphd             Zzpdwqmesiatg       Zzv                 Zzwiwiefblfhsoq     Zzxausyrhkmc        Zzyhgoswkmtn        
+
+
+=================================================================================
+Randomly generated Word Array (size : 20000)
+Izloc               Hajy                Djciedmle           A                   Jwoqnmcayaqqog      Dadkzozxko          Qnmfzfonut          Vwzjo               Qsdgyvtg            Buco                
+Rlyoecifessswqg     Oietlpbnh           Wzrzougbidlxtgh     Vgccaozkdg          Qujyptemsukzgkm     Q                   Kjfpbyufplnda       Xxxv                Yvofdkbvku          Mljqzytrkdk         
+Oodjlfyu            Bwcwwhekecfnfzc     Eczkfsslocgqtca     Lgixvjoldrrxto      Oqzwajdwzqbnuoe     Hgahqadzejihsr      Itiqlsldxiwcax      Zovsfvgnrfzje       Qdktls              Hjgrb               
+Qa                  Hdczlcqjhvj         Bfbsbhwxcfegx       Bcwkacmxkcz         Vkwvqhhfemp         Wzmytz              Xcsu                Cxkqylmgpswr        Vpovyhzo            Anupoqmelllsyh      
+Zityopbaxu          Sxoluoaesurxkge     Dzecdwxtgz          Hftqbmgmxr          W                   Kttbignmpv          Vzdcj               Xvezxhy             Tug                 Lm                  
+. . . . .
+Flcuasyznm          Ukdxcakqafjsdl      Xebxbaupmotauf      Rhiigqa             Daogh               Lnylpdwv            Dodopv              Cxm                 Xphamgyvi           Qjvqj               
+Hpyahfrl            Cckbi               Sfr                 Ssvpcady            Ydtas               Shvrhjplw           Iaezocodbmbrv       Efmwbsekwt          Rfpdzoezlol         Mopmtww             
+Gjnjheiclaim        Gojehcwfbibv        Oecwxdcgavmed       Rkptqzfjehiz        J                   Azitgbgnk           Yz                  Txhx                Hufaqyrgjkvpqif     Ph                  
+Wjoqzibfh           Kjctwxpe            Gwxsfg              Ummkndwnluf         Mcrnrzdwsrp         Jwsffrnh            Xqghkf              Lmcbiqrrjv          Crmzvw              U                   
+Wimuiqrtahdfh       Ajpqhy              Vbyp                Hekk                Jkg                 Ylzm                Ndosndtxvuuekaj     Wmpeezkncdtu        Afmogfurtu          E                   
+
+Quick sorting for Word Array (size : 20000) .....
+QuickSort_WordArray (size : 20000) took     11.534[millisecond], 
+After sorting word array (size : 20000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zxmlruaou           Zxncpv              Zxneldnxu           Zxq                 Zxsrlotnmjc         Zxw                 Zxwqfltggenev       Zxwzk               Zybf                Zybxxwiawafvxut     
+Zycasab             Zycjakisaflt        Zyday               Zyfeisee            Zyffomopvdxdgi      Zyfomadwtaq         Zygwhsnrywydh       Zyhl                Zyhmyotzyai         Zyjtgmk             
+Zyjtjfhldj          Zykdjnfykwytsit     Zylcdl              Zylwbblcq           Zymbftfauhpu        Zyq                 Zyqasxxfmjc         Zyqqpxbomf          Zyrmsud             Zyryjpig            
+Zytolgrklnejc       Zyvbpqxn            Zyxprdhdaxqmqvm     Zyzacwqxzqotb       Zyzhomhv            Zzaruypnpv          Zzazeo              Zzcw                Zzdraig             Zze                 
+Zzldien             Zzlgfjvrnouqe       Zzljnkk             Zzmcwyfbxyaajqs     Zzogcywifae         Zzpfqutdsurkk       Zzqbsxsro           Zzvtgbuihi          Zzy                 Zzzlkf              
+
+Word Array (size : 20000) after Shuffling
+Jp                  Atbmyhsd            Eioal               A                   Wtvjblfduclb        Ixtjvmg             Pbddjfdyet          Qshvhijyutcq        A                   Bjcbpzhuc           
+Ceevxexhwi          Wrynhgdp            A                   A                   Exs                 A                   A                   A                   A                   Rg                  
+Bvsmsixgit          Occsqgz             A                   A                   A                   A                   Accltkryrhuac       A                   Ucfbscvixz          A                   
+Xkn                 B                   Vgqml               A                   A                   A                   Ug                  Stkltlwxyipta       A                   A                   
+Ecpusjeglrhusi      A                   A                   Retfudjibdy         Tyxnqxajah          Sauuboqcsxeahtc     Gqgewyxlg           A                   Cfwasi              Balzjluoczj         
+. . . . .
+Zxmlruaou           Kssfyqifhvxrgio     Zxneldnxu           Zxq                 Aelqc               Zxw                 Zxwqfltggenev       Zxwzk               Iiceksmq            Pj                  
+Zycasab             Zycjakisaflt        Cnrfi               Zyfeisee            Xuedvjwzxgxbxqc     Dxuujsebl           Zygwhsnrywydh       Zyhl                Zyhmyotzyai         Okfaamcfdqlej       
+Zamy                Zykdjnfykwytsit     Zylcdl              Emhap               Zymbftfauhpu        Zyq                 Zyqasxxfmjc         Axmgoaytmnchjwu     Zyrmsud             Zyryjpig            
+Zwpdflnthont        Zyvbpqxn            Zyxprdhdaxqmqvm     Ryaoeicwceezpm      Tbfpcndhgduyw       Pbblhbqcelo         Glcsbmjukfaidbk     Ydhes               Zzdraig             Zze                 
+Zzldien             Vkl                 Zzljnkk             Zzmcwyfbxyaajqs     Eehruijsb           Hlkbtbxitjjzukh     Kphctohjs           Heivuatknclwoix     Edtdqkcbpgffavv     Nkf                 
+
+Selection sorting for Word Array (size : 20000) .....
+SelectionSort_WordArray (size : 20000) took    565.512 [millisecond]
+
+After sorting word array (size : 20000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zxmlruaou           Zxncpv              Zxneldnxu           Zxq                 Zxsrlotnmjc         Zxw                 Zxwqfltggenev       Zxwzk               Zybf                Zybxxwiawafvxut     
+Zycasab             Zycjakisaflt        Zyday               Zyfeisee            Zyffomopvdxdgi      Zyfomadwtaq         Zygwhsnrywydh       Zyhl                Zyhmyotzyai         Zyjtgmk             
+Zyjtjfhldj          Zykdjnfykwytsit     Zylcdl              Zylwbblcq           Zymbftfauhpu        Zyq                 Zyqasxxfmjc         Zyqqpxbomf          Zyrmsud             Zyryjpig            
+Zytolgrklnejc       Zyvbpqxn            Zyxprdhdaxqmqvm     Zyzacwqxzqotb       Zyzhomhv            Zzaruypnpv          Zzazeo              Zzcw                Zzdraig             Zze                 
+Zzldien             Zzlgfjvrnouqe       Zzljnkk             Zzmcwyfbxyaajqs     Zzogcywifae         Zzpfqutdsurkk       Zzqbsxsro           Zzvtgbuihi          Zzy                 Zzzlkf              
+
+
+=================================================================================
+Randomly generated Word Array (size : 30000)
+Agiwp               Ewxhipld            Rhq                 Gvphywczlcgu        Ftclz               Lvjbahedf           Mykovyaizyndn       Fmmexopeo           Pv                  Icb                 
+Fmff                Yn                  Opr                 Ppfqr               Anwfxboewnetkqi     Yhjtazrrqlueyhz     Yfpxbl              Inp                 Ufmweeqo            Bf                  
+Lxyevfl             Nxsrpfhdbvw         Zd                  Eyedgsjpfblig       Liq                 Hgzebusc            Liczx               Hwlfbjemeuqsa       Wpnyhgwnn           Boxquuoovdkohw      
+Jgebshbjf           Ymcznifejt          Boqvfjkxjbc         Sahmzzs             Mvzwy               Vvmggkjabehiazt     Qvglwepfpqkoia      Bzanmwafwtnfb       Cu                  Ismjxqxq            
+Ebdto               Jzsumpoqekzyv       Fopqmxmhhogfskn     Osbw                Bpqrqfhiyuswx       Rnj                 Dvgqftym            Gobmiqsqjtwvq       Wvs                 Tnpnqhzlg           
+. . . . .
+Zthckt              Tddmm               Bnvyiuakpqc         Lmjk                Lczzxroxu           Qq                  Pxgb                Lays                Wbx                 Hvdkjsgpiwxjp       
+Gqy                 Anuqhsimvfqvvd      Hat                 Mu                  Fazhslcqedun        Jkic                Lgeqvchafzyo        Pnngrsyybw          Oytqxtnwlbv         Ld                  
+Whcsuhnqlnkgwow     Nzzverwkgn          Tzsysh              Htfvbn              N                   Dlrowzcksxhyfnr     Lnupg               Ubapkswwrhhf        Wfokme              Fammkckvfdr         
+Ejiyhesmgsgt        Tpfflmotbubigsl     T                   Domryiicybo         Dzbwsfijqppr        T                   Hgtoheyeynoz        Qryexgv             Aefbpzrxuczqec      A                   
+Vj                  Aduxkkqpbihfb       Lbhqxeuzkr          Qapdnsb             Nimwavy             Xbedxhqfbezjg       Mojxrvzfddj         Dmquwzvalvcfo       Geoysebzbjojtph     Lpzmgkxlzxqpam      
+
+Quick sorting for Word Array (size : 30000) .....
+QuickSort_WordArray (size : 30000) took     15.858[millisecond], 
+After sorting word array (size : 30000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zyyk                Zyykqnvioxzx        Zz                  Zz                  Zz                  Zzagqoyn            Zzazfwcdj           Zzbargtqnlmqny      Zzbil               Zzbjijslhneb        
+Zzbtgwxckdwiwtl     Zzcxhjzfogd         Zzcygkmhtpukgk      Zzgavtmteewgvh      Zzgj                Zzhjixfrecb         Zzidyhxcusbuc       Zzila               Zzjglaq             Zzjzljhw            
+Zzkktuyfoeuu        Zzksdxmtlqgxuk      Zzlbxcvcdkgqc       Zzlvvbbafaurzra     Zzn                 Zznhmzc             Zznlqr              Zzo                 Zzogyayvcrhu        Zzoqjdqsxvpjmk      
+Zzovclcq            Zzq                 Zzqzfkjn            Zzr                 Zzrk                Zzrkdhivw           Zzrmtlqfbqoqla      Zzsnco              Zztjutartggl        Zzvkw               
+Zzweaubn            Zzwxao              Zzx                 Zzxdtxlbibyrdcq     Zzxuddvora          Zzytjjls            Zzz                 Zzzoglfx            Zzztkeeded          Zzzyvjfhws          
+
+Word Array (size : 30000) after Shuffling
+Vjwd                Zcrqemfqlyxrm       Wpd                 Tdhm                A                   A                   Zenajcbej           Vi                  Pxveo               Ihucfo              
+Ifgunqedl           Pvbpvwveutwo        Ccbuoqzg            A                   Qht                 Viiuvdyrnehre       Auhtlhgdwmxxd       G                   Oywotno             Icopdpztrizszvx     
+Kiodztmquuma        A                   M                   Zmudtqbzka          Mwqdyijeqyzjpwp     Zbfsbmqwodhhan      Ucrfzqnjrg          Tww                 Xfib                Iqorzrtauajh        
+Ikkwgvkrx           Nxvspz              Jemfdpeuoeftmit     Nrkbqnyhisnlleu     Qdypbhlglf          Eutkjtyvyph         Etvodtdahoye        Qqekfbx             Xfmm                A                   
+Vcojchgaqmcbtfw     Kamgzhvnirurf       Odeioqm             Aakfagg             Juge                Faajiblodgyfhpt     A                   Sqoljr              A                   Ucappcer            
+. . . . .
+Zyyk                Ttilfv              Zz                  Zz                  Sfgijxwf            Zzagqoyn            Ugaxr               Sjcqkrick           Zzbil               Iqjpsrzexvmpi       
+Zzbtgwxckdwiwtl     Zzcxhjzfogd         Zzcygkmhtpukgk      Khiwlloyweug        Dqckvomlg           Zzhjixfrecb         Zzidyhxcusbuc       Fdifbgdiauxad       Ycsqxjzsrjojg       Zzjzljhw            
+Ypqfuhqhaleuj       Zzksdxmtlqgxuk      Cghyomzqzo          Zzlvvbbafaurzra     Sjrajqksgyqnn       Mzeoxnmzymy         Fqxvhghpi           Zzo                 Zzogyayvcrhu        Zzoqjdqsxvpjmk      
+Zzovclcq            Ngzyafdppimtejb     Zzqzfkjn            Gsrcbkvzxrvi        Ujdkfvmyn           Zzrkdhivw           T                   Zzsnco              Bxlqoddhqrgup       Zzvkw               
+Qkbdwsmeuov         He                  Xsl                 Fczyvyivk           Ngzwgbvoabfdql      Xxuzwsagoxelg       Uv                  D                   Zzztkeeded          Zzzyvjfhws          
+
+Selection sorting for Word Array (size : 30000) .....
+SelectionSort_WordArray (size : 30000) took   1310.684 [millisecond]
+
+After sorting word array (size : 30000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zyyk                Zyykqnvioxzx        Zz                  Zz                  Zz                  Zzagqoyn            Zzazfwcdj           Zzbargtqnlmqny      Zzbil               Zzbjijslhneb        
+Zzbtgwxckdwiwtl     Zzcxhjzfogd         Zzcygkmhtpukgk      Zzgavtmteewgvh      Zzgj                Zzhjixfrecb         Zzidyhxcusbuc       Zzila               Zzjglaq             Zzjzljhw            
+Zzkktuyfoeuu        Zzksdxmtlqgxuk      Zzlbxcvcdkgqc       Zzlvvbbafaurzra     Zzn                 Zznhmzc             Zznlqr              Zzo                 Zzogyayvcrhu        Zzoqjdqsxvpjmk      
+Zzovclcq            Zzq                 Zzqzfkjn            Zzr                 Zzrk                Zzrkdhivw           Zzrmtlqfbqoqla      Zzsnco              Zztjutartggl        Zzvkw               
+Zzweaubn            Zzwxao              Zzx                 Zzxdtxlbibyrdcq     Zzxuddvora          Zzytjjls            Zzz                 Zzzoglfx            Zzztkeeded          Zzzyvjfhws          
+
+
+=================================================================================
+Randomly generated Word Array (size : 40000)
+P                   Bszjc               Lchcywecdjby        V                   Tymzdzgiekl         Pdrpsqafhqteg       Aurxbbapeetbfr      Kj                  Hvwqedsyrd          Mzqzjh              
+Xiecicfnnclcog      Pmnskkygh           Zvr                 Ovodmrnboq          Ya                  Unlkjbpslxm         Mmsrbhkjmdomcw      Lxqznfyibh          Hb                  Gd                  
+Cmi                 U                   Dhwuajvunsqog       Tvcbifi             Tv                  Kftqhltukmuhaw      Xi                  Ulmbsvajkhfi        Axltuvewuddeqpn     Xkekolrk            
+Xcmsi               Fdqvhxoxego         Mobxgesyqxepbjr     Nmtrhsufiqmsd       Evokgmaxmvojs       Hcxlh               W                   Wjlxhgeug           Kxv                 Wsqfft              
+Sssbux              Rprumrfjfchdhfk     Taurirkec           Wgoiruajynuap       Bpawnyjql           Jtqxyqmrwcyaos      Opzvrmdeo           H                   Vklrhdqaeaxtm       Hpmngbfmc           
+. . . . .
+Ldf                 Vcycdhgiyxxa        Kbasbdllrhqbh       Adiivlvktauu        Uxwnsc              Lgimaegjuamtbwv     Qpr                 Hctedkvtkwpgze      Ewsgypckm           Bxjfir              
+Pj                  Zmf                 Plmlhqsq            Hboctofxktamzgn     Igpnfsdbjclqc       Dazqlntqsxr         Fhdkhxqnlce         Gnoenhmgtftg        Xfblz               Jozzuu              
+Jhzonskyopzs        Gnawdvekvy          Zaosnj              Kcnidhlpgginm       Wxdi                Wyojebvkgppf        Chcladlpj           Rotzgscxv           Wtmyfxpcq           Pzja                
+Bhzhld              Zttwuzxlzjascw      Xoppvmv             Wretjqxd            Smkgfwqnsmh         Afgfeescxp          Fdpmjf              Tlrexabwio          Knt                 Njafr               
+Jnsfsxgf            Jjutkwodrbps        Ongfduixof          Gjyrmk              Gppsdmqlkuajv       Vpyhyinxtkyl        Pqdqah              Ugjwzdmn            Xhlzy               Fyfrnymbkw          
+
+Quick sorting for Word Array (size : 40000) .....
+QuickSort_WordArray (size : 40000) took     24.691[millisecond], 
+After sorting word array (size : 40000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zyyt                Zyzospmzhto         Zz                  Zz                  Zz                  Zz                  Zzachaultiehhv      Zzaeuaus            Zzb                 Zzb                 
+Zzbimbvmqhdmhr      Zzdi                Zzdpktdqa           Zzdrzarfagun        Zzeatpnuj           Zzedinarf           Zzetpk              Zzflnliquyoevrc     Zzfyxkh             Zzh                 
+Zzj                 Zzjymtdzawuheb      Zzkclburgje         Zzkgoszbvic         Zzm                 Zzmkaluasuz         Zzmwgokdru          Zznhfzobwyiye       Zzodlhua            Zzogbuztl           
+Zzolvouubisgg       Zzp                 Zzpgzcajfu          Zzr                 Zzrdomco            Zzrpdoudmpek        Zzrrrzqtne          Zzrxpspmv           Zzt                 Zzthl               
+Zztxnovzwfz         Zzvleedvds          Zzvlzmkcyt          Zzvpwwvmkfxm        Zzxdejdk            Zzxrvjhdl           Zzy                 Zzysixdcnz          Zzyyn               Zzz                 
+
+Word Array (size : 40000) after Shuffling
+P                   Sus                 A                   Djzjrvldgitqg       A                   Szcdf               A                   Kjgy                Sslvtyr             A                   
+Slwtj               K                   A                   A                   J                   Rh                  Ag                  Qpdskvxoltzu        Vdf                 Frhe                
+A                   A                   Uizzgydusavzns      S                   Stckoluicwfw        Opwau               Semqby              V                   Mwcetzclctuvh       O                   
+A                   A                   Ur                  Ptiotm              Kmmanhvmr           Uwcwfghedz          K                   A                   Evdakai             Lripqj              
+Vayjxf              Vext                A                   Etpxexcpxfb         Skxbyympxgds        A                   A                   Oxebwkcutvj         A                   A                   
+. . . . .
+Zyyt                Zyzospmzhto         Zz                  Zz                  Zz                  Zz                  Zzachaultiehhv      Zzaeuaus            Zzb                 Zzb                 
+Zzbimbvmqhdmhr      Zzdi                Zzdpktdqa           Zzdrzarfagun        Zzeatpnuj           Zzedinarf           Zzetpk              Zzflnliquyoevrc     Zzfyxkh             Zzh                 
+Zzj                 Zzjymtdzawuheb      Zzkclburgje         Zzkgoszbvic         Zzm                 Zzmkaluasuz         Zzmwgokdru          Zznhfzobwyiye       Zzodlhua            Zzogbuztl           
+Zzolvouubisgg       Zzp                 Zzpgzcajfu          Zzr                 Zzrdomco            Zzrpdoudmpek        Zzrrrzqtne          Zzrxpspmv           Zzt                 Zzthl               
+Zztxnovzwfz         Zzvleedvds          Zzvlzmkcyt          Zzvpwwvmkfxm        Zzxdejdk            Zzxrvjhdl           Zzy                 Zzysixdcnz          Zzyyn               Zzz                 
+
+Selection sorting for Word Array (size : 40000) .....
+SelectionSort_WordArray (size : 40000) took   2459.124 [millisecond]
+
+After sorting word array (size : 40000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zyyt                Zyzospmzhto         Zz                  Zz                  Zz                  Zz                  Zzachaultiehhv      Zzaeuaus            Zzb                 Zzb                 
+Zzbimbvmqhdmhr      Zzdi                Zzdpktdqa           Zzdrzarfagun        Zzeatpnuj           Zzedinarf           Zzetpk              Zzflnliquyoevrc     Zzfyxkh             Zzh                 
+Zzj                 Zzjymtdzawuheb      Zzkclburgje         Zzkgoszbvic         Zzm                 Zzmkaluasuz         Zzmwgokdru          Zznhfzobwyiye       Zzodlhua            Zzogbuztl           
+Zzolvouubisgg       Zzp                 Zzpgzcajfu          Zzr                 Zzrdomco            Zzrpdoudmpek        Zzrrrzqtne          Zzrxpspmv           Zzt                 Zzthl               
+Zztxnovzwfz         Zzvleedvds          Zzvlzmkcyt          Zzvpwwvmkfxm        Zzxdejdk            Zzxrvjhdl           Zzy                 Zzysixdcnz          Zzyyn               Zzz                 
+
+
+=================================================================================
+Randomly generated Word Array (size : 50000)
+Qntmxtenvobsv       Uxbh                Wuxjekze            Cucaewff            W                   Bmohzrvbqyd         Ntuidpxbf           Ufamvqvyqi          Zytpmxpuxqijb       Jlxctxlkse          
+Pcm                 Tifcpyh             Qitghwc             Gxlj                Ipfhoodcwy          Lpocgqmvjtq         Vpkqvptuq           Tepynukrxijcsig     Okbmrz              Axpdeq              
+Kyekjubdm           Dlvylgssqa          T                   Qnefrjy             Gzt                 Losu                V                   Hcllvidfolef        Uwfwgybrphy         Lhzynxop            
+Vcops               C                   Ylyvegvk            Ovklepcrolyoqks     Nibtfcnq            Oupbercg            Fw                  Luxkeulvypyrm       Vnffyjwrunl         Dmqtmwrael          
+Ieicgxtoijwnh       Kciktavjs           Crirtwblykmautc     Ikthlbtrn           Xt                  Clkwguyz            Ghspcgg             Ggsdvhw             Drmxeopnk           Hjesooylnx          
+. . . . .
+Dneu                Erppwjeph           Qklztlnbiwtyn       Dqmgbijznhsm        Yrdxepcdil          Be                  Rsmmxltmu           Xbxtltlwygot        Fcphzvyrrn          Qnfapcx             
+Uiqw                Acbyloefmqjje       Ydrhlq              Oqlwrvuf            Nqxwgnffgpft        Emog                Upmrxcfws           Kovl                Oldxqtnnibdsxu      Wawwmepy            
+Nftprmfdqhg         Rafogf              Yy                  Fbpmolmbctbyd       Ptoatntijevl        Xli                 Pddtnvvsqiihvnb     P                   Qewyznij            Rtimnnvecmbdriw     
+Qdhangxyerrv        Ozggs               Qzmxzdzyq           Ycba                Pnoskwwsw           Xbhsobwfpaqwxge     La                  Jwdbqayhwxuqj       Gjuudg              Ybqdrgbjlmwbgum     
+Sqmifgcbzhlgvnb     Qucyqeg             Jqeedasktirfvoc     Mjouq               Ubkwek              Apvop               Sho                 Kumantmheroehxv     Hsmdy               Tsuxjzxuhokjzda     
+
+Quick sorting for Word Array (size : 50000) .....
+QuickSort_WordArray (size : 50000) took     33.837[millisecond], 
+After sorting word array (size : 50000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zzhua               Zzihutorqvlspx      Zzintthekrfjc       Zzirnkgvb           Zziwylyznc          Zzjkuklt            Zzjpgsfh            Zzjycpxhc           Zzkil               Zzkkxkczkrs         
+Zzl                 Zzlfid              Zzlivwesuspou       Zzllzcapxbgj        Zzlqhqj             Zzlt                Zzmhotm             Zzmyvlkk            Zznanve             Zznp                
+Zznpdsdx            Zzntcs              Zzo                 Zzoddci             Zzoqervnkzkut       Zzpmoctkjejz        Zzqbxvfnobxkmtt     Zzqcrimaqneb        Zzqmzvfnqevbm       Zzrisdmwybxjtqn     
+Zzssiw              Zzsypvcqdb          Zztcjorpqims        Zztffscwxiba        Zztigubrymq         Zzttw               Zztwvjfqg           Zzugqwltkfm         Zzujcuftwlcqy       Zzuoheghl           
+Zzuqccchoovkcu      Zzv                 Zzv                 Zzvdvyu             Zzwb                Zzwglslwmwxtatv     Zzxysdw             Zzxzgkzhuadocp      Zzyngpneyw          Zzzdd               
+
+Word Array (size : 50000) after Shuffling
+Byzjfmrbhds         Cwoajioq            Qcgdibpo            Fsjked              Pzgceh              Hxkxksh             Algwkxmjyudt        A                   Nixmxyfjoxd         Azel                
+Inpzzah             Bfetxfqcalden       Kgbn                Emre                Kqjbthxqp           Knxyhvtoxeim        A                   A                   Oflzzfevcw          Gjdsr               
+Pqmy                B                   Lswwlnl             A                   Kpckz               A                   A                   Pqjiaelxlmrrtk      Pxxpe               Gysaihgrvcfhccv     
+A                   Ntgp                A                   Byajcxuhzpal        A                   Jojefiarphq         Lijcnt              Nxbenrzqbnu         Cyqinw              Ktjvkxkws           
+Crjci               Iti                 N                   Cwfabg              A                   A                   Npmoskkredafcnm     Owe                 Dyxlozzji           Cjnucl              
+. . . . .
+Zzhua               Zzihutorqvlspx      Zzintthekrfjc       Zzirnkgvb           Zziwylyznc          Zzjkuklt            Zzjpgsfh            Zzjycpxhc           Zzkil               Zzkkxkczkrs         
+Zzl                 Zzlfid              Zzlivwesuspou       Zzllzcapxbgj        Zzlqhqj             Zzlt                Zzmhotm             Zzmyvlkk            Zznanve             Zznp                
+Zznpdsdx            Zzntcs              Zzo                 Zzoddci             Zzoqervnkzkut       Zzpmoctkjejz        Zzqbxvfnobxkmtt     Zzqcrimaqneb        Zzqmzvfnqevbm       Zzrisdmwybxjtqn     
+Zzssiw              Zzsypvcqdb          Zztcjorpqims        Zztffscwxiba        Zztigubrymq         Zzttw               Zztwvjfqg           Zzugqwltkfm         Zzujcuftwlcqy       Zzuoheghl           
+Zzuqccchoovkcu      Zzv                 Zzv                 Zzvdvyu             Zzwb                Zzwglslwmwxtatv     Zzxysdw             Zzxzgkzhuadocp      Zzyngpneyw          Zzzdd               
+
+Selection sorting for Word Array (size : 50000) .....
+SelectionSort_WordArray (size : 50000) took   3683.444 [millisecond]
+
+After sorting word array (size : 50000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zzhua               Zzihutorqvlspx      Zzintthekrfjc       Zzirnkgvb           Zziwylyznc          Zzjkuklt            Zzjpgsfh            Zzjycpxhc           Zzkil               Zzkkxkczkrs         
+Zzl                 Zzlfid              Zzlivwesuspou       Zzllzcapxbgj        Zzlqhqj             Zzlt                Zzmhotm             Zzmyvlkk            Zznanve             Zznp                
+Zznpdsdx            Zzntcs              Zzo                 Zzoddci             Zzoqervnkzkut       Zzpmoctkjejz        Zzqbxvfnobxkmtt     Zzqcrimaqneb        Zzqmzvfnqevbm       Zzrisdmwybxjtqn     
+Zzssiw              Zzsypvcqdb          Zztcjorpqims        Zztffscwxiba        Zztigubrymq         Zzttw               Zztwvjfqg           Zzugqwltkfm         Zzujcuftwlcqy       Zzuoheghl           
+Zzuqccchoovkcu      Zzv                 Zzv                 Zzvdvyu             Zzwb                Zzwglslwmwxtatv     Zzxysdw             Zzxzgkzhuadocp      Zzyngpneyw          Zzzdd               
+
+
+=================================================================================
+Randomly generated Word Array (size : 60000)
+Xerxbydt            Ecxappozjmvh        Bqdkvnepoxov        Czut                Ragusyt             Flbtyvzsyqxocon     Y                   Euajxbansfzdpqj     Njrzhpano           Z                   
+Luqmhsbbrdt         Xdugct              Gaqrnzzidtvvtm      Otwfav              Yuddkd              Ptfvcta             Qlwrimmp            Wbczweu             Zglqg               Axomsber            
+Wt                  Ll                  Rb                  C                   Pvkbsxkrep          Nbbqnjgcbntjs       Tzfz                Dnwaekzcroscwp      Ohlcoeujikr         Hd                  
+Zhfv                Yusjbn              Zv                  Ashhltfrrcylzrp     Rg                  Lpqinjebwfsb        Kvlvhhpirunbzq      Ofokovivd           C                   Tujrcq              
+Fdfgmwg             Fxjcmfjtrlg         Cmojqo              Pnazyruknrudgv      Yoeqlxkxvlmpji      Xbzhxhqndbw         Ytrrlagvylcbpq      Wvdlimxfymxihm      Klpuubsmrt          Dazmjdfsfigzfwm     
+. . . . .
+Htrx                Fhxapj              Qyoyhsaryj          Irmlfkyjveewenv     T                   Rag                 Yzuurhom            Vqpuyvqy            Oomcwqeibprpk       U                   
+Va                  Dprfagjeece         Ngykdxfqwozd        Dcefkxmfbeywzju     Njef                Xwcuupvfl           Gts                 Anldjrjhmcmybdc     Wexvzghtxgffcre     Pxfilmltgelsl       
+Spyvyfswj           Oqfhmhdxgrz         Dkbju               Kqrwugajvxnn        Vjcjflodtvixecu     R                   Bglvva              Ev                  B                   Ovgsreob            
+Hhlllziid           Lab                 Uc                  Guhzorgmhho         Acnerxywkxyem       Ruzlqfalwcsbll      Zoh                 Etey                Mgxizhrfnweq        Wct                 
+Kkx                 Stkyezzfqchbgbo     Zhznfyjvrlunzy      Nq                  Yauxnnpw            Whwjzjoiyatavsa     Dsdmnmritfgepj      Ajsvn               Pdyfo               Lyadshqvruq         
+
+Quick sorting for Word Array (size : 60000) .....
+QuickSort_WordArray (size : 60000) took     37.076[millisecond], 
+After sorting word array (size : 60000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zzfm                Zzghfpc             Zzhfc               Zzii                Zzjgxnrjjhdvbp      Zzjgybdmitsboj      Zzjjyrfy            Zzjkzmwkoed         Zzjyugaohlep        Zzkykpvbl           
+Zzl                 Zzlihveqdpcts       Zzmeleafvxas        Zzmkyksnfzfkjn      Zzmlczgjhmgmxl      Zzmm                Zznfcasfb           Zznhojxepo          Zznkhxc             Zznw                
+Zzomcdu             Zzot                Zzovcaxaql          Zzpnue              Zzqgsmfgeuurjzx     Zzqhr               Zzqjxlkzi           Zzqxg               Zzrjoxzc            Zzrmi               
+Zzrnatjypppjfsa     Zzruj               Zzrwxjoxkpjqt       Zzsvsvjzpxszsl      Zzti                Zztogv              Zztpebwsuuykkwt     Zzufpsktwmzl        Zzuofwdcm           Zzuuhbcnxbjdrkq     
+Zzuwibbcemwg        Zzv                 Zzwlaqozuwrgfd      Zzwxxealhjwl        Zzxariowxbjv        Zzxbkat             Zzxhicdrsz          Zzyhhwsngbuz        Zzzhdmblvn          Zzzuxzpkhhdvzf      
+
+Word Array (size : 60000) after Shuffling
+Kycibyjrqnvmkp      Mgszsaktxld         Flbtyvzsyqxocon     Ksuht               Hfhgssagffmi        Mfollpwlscnfur      Kpbyvofqxyktp       Awdnrjhvzvqhq       Cfsufdkyjly         Je                  
+A                   Iamgsyyyqpkc        Ewqrbckalg          Jaeiu               Lnffz               A                   Ijinbw              Bgjcc               Eqvdoqeefkz         Gdwctuinqpisnpt     
+Blnbqstwn           Dssyf               A                   Hcesnstmaerfg       Mfwklzevzee         Mrvgqbemi           Kesm                Afi                 Ciukbmneszymuh      Jvvwhawsvgmfcqn     
+Mwimxcf             Aiosoexwwy          Jurrzyunqa          Mnkdetstefvvxm      Ncj                 Cvivuuxwgbzltu      Ducitsbzbkcvjp      Mnhawewmxs          A                   Jkfqjdbdqgp         
+Lghkzqjjs           Jmhbqbvgdyg         Fggin               Mamzlncyvrns        Lmte                Gupljuencoigr       Aldhzip             Emeomjekhctxxhw     Jxfsfpcbxtufqos     Fkxnxzkeimc         
+. . . . .
+Zzfm                Zzghfpc             Zzhfc               Zzii                Zzjgxnrjjhdvbp      Zzjgybdmitsboj      Zzjjyrfy            Zzjkzmwkoed         Zzjyugaohlep        Zzkykpvbl           
+Zzl                 Zzlihveqdpcts       Zzmeleafvxas        Zzmkyksnfzfkjn      Zzmlczgjhmgmxl      Zzmm                Zznfcasfb           Zznhojxepo          Zznkhxc             Zznw                
+Zzomcdu             Zzot                Zzovcaxaql          Zzpnue              Zzqgsmfgeuurjzx     Zzqhr               Zzqjxlkzi           Zzqxg               Zzrjoxzc            Zzrmi               
+Zzrnatjypppjfsa     Zzruj               Zzrwxjoxkpjqt       Zzsvsvjzpxszsl      Zzti                Zztogv              Zztpebwsuuykkwt     Zzufpsktwmzl        Zzuofwdcm           Zzuuhbcnxbjdrkq     
+Zzuwibbcemwg        Zzv                 Zzwlaqozuwrgfd      Zzwxxealhjwl        Zzxariowxbjv        Zzxbkat             Zzxhicdrsz          Zzyhhwsngbuz        Zzzhdmblvn          Zzzuxzpkhhdvzf      
+
+Selection sorting for Word Array (size : 60000) .....
+SelectionSort_WordArray (size : 60000) took   5218.463 [millisecond]
+
+After sorting word array (size : 60000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zzfm                Zzghfpc             Zzhfc               Zzii                Zzjgxnrjjhdvbp      Zzjgybdmitsboj      Zzjjyrfy            Zzjkzmwkoed         Zzjyugaohlep        Zzkykpvbl           
+Zzl                 Zzlihveqdpcts       Zzmeleafvxas        Zzmkyksnfzfkjn      Zzmlczgjhmgmxl      Zzmm                Zznfcasfb           Zznhojxepo          Zznkhxc             Zznw                
+Zzomcdu             Zzot                Zzovcaxaql          Zzpnue              Zzqgsmfgeuurjzx     Zzqhr               Zzqjxlkzi           Zzqxg               Zzrjoxzc            Zzrmi               
+Zzrnatjypppjfsa     Zzruj               Zzrwxjoxkpjqt       Zzsvsvjzpxszsl      Zzti                Zztogv              Zztpebwsuuykkwt     Zzufpsktwmzl        Zzuofwdcm           Zzuuhbcnxbjdrkq     
+Zzuwibbcemwg        Zzv                 Zzwlaqozuwrgfd      Zzwxxealhjwl        Zzxariowxbjv        Zzxbkat             Zzxhicdrsz          Zzyhhwsngbuz        Zzzhdmblvn          Zzzuxzpkhhdvzf      
+
+
+=================================================================================
+Randomly generated Word Array (size : 70000)
+Mabgdryrk           I                   Sx                  Vkwzicwuvfggt       Td                  Lim                 Eu                  Exasw               Wbsnqpeb            Uihwtzfly           
+Yjw                 Zzrrrxrf            Aul                 Frk                 S                   Gzoytsyrxd          Ayvetojm            Nicaqlg             Gjjevc              Qtb                 
+Prnvmqpodyfk        Yelbkty             Elomgksmv           Aop                 Bwqtntazn           Bczlnrkya           Rnhetppp            Gpbpcsryiqajaer     Xcspgnpcblezzvb     Pgmmzfqa            
+Fkupdxmgfk          Jdgkkfs             Utjidnnfxtqa        Fgatgyzfpsvg        Idmxtmtblrymjh      Xt                  Nqocbifjio          Fi                  Nwbzp               Jpxcibihj           
+Uptwouhnb           Jkq                 Fyqydryljsfnvqt     Dwlppxdtmow         Nbhwkjhkstxrxuc     Fj                  Qktinmrtwys         Bpetvmabrw          Eatkhgu             Ritayotn            
+. . . . .
+Zig                 Cadwiowccvuo        Mvggdtlhwkpzc       Mor                 Jlmrwhdpii          Bcqebqb             Qqzq                Eaqnzwigwqmhymt     Cbhjdizhy           Rfuwizi             
+Muocogjoazfiqwc     Yjb                 Lau                 Xtqfvqcr            Wtiedrrsicjjc       Yeaejtf             Hdtoafmzfdgdi       Xncmusjsny          Icgojorsmr          Nwarbwjpu           
+Irnbquslmeqi        Ao                  Acidpoa             Ushxd               U                   Riagvuwdqbcah       Qg                  Xdlovhuhneeb        Zonxn               Aeeuukrmcz          
+Kmvyzcjrtwhew       Mgxy                Diylgdkncu          Ahwfp               Agguhudk            Cuzpwtqzlslcrh      Dm                  Letpo               Btyaeyg             Atrqycjtgdafeh      
+Ejdjwli             Tapiouufvgloe       Pnsrhv              Wlwzgdjrrunvo       Yythlzltck          Rgmphegukbakyd      Modfhfympytja       Dcahs               K                   Dwrkupf             
+
+Quick sorting for Word Array (size : 70000) .....
+QuickSort_WordArray (size : 70000) took     46.346[millisecond], 
+After sorting word array (size : 70000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zzmwpgsuaugkst      Zzn                 Zznihhgxdgmyhuo     Zznpguoqpcyi        Zzoausluxcyl        Zzorcpqf            Zzouchffuine        Zzp                 Zzpak               Zzpgj               
+Zzptkujbibacl       Zzpxzfor            Zzqmzlxwe           Zzqsuw              Zzqwhdoak           Zzqxbhrq            Zzrrrxrf            Zzrzefdnt           Zzsbdmhhlhm         Zzsg                
+Zzsmertavevxmb      Zzsqzvc             Zzsxdvupq           Zztct               Zztmnwcrbulcpet     Zztylvhtorjgwmw     Zztyvburmvhjvcb     Zzuhccx             Zzunjjizqikj        Zzv                 
+Zzvaujbspauiv       Zzvhqxx             Zzviusofixaqazl     Zzvkxafanr          Zzvqeeeqz           Zzvuuvfoxrre        Zzvvzfgvlo          Zzwh                Zzwoyvcnrpy         Zzx                 
+Zzx                 Zzxyguzdvh          Zzy                 Zzyezhogj           Zzyhkczoctb         Zzykk               Zzypv               Zzyydwahalfa        Zzzgcipiqpkign      Zzzpsas             
+
+Word Array (size : 70000) after Shuffling
+Ivdsyktxojdx        Hnmx                Golikgamsummvy      Fdmzy               Ecqdbvbdqe          Edqvxfdchqn         Dovugpvjqfrqk       Bywncieljr          Hwwiomy             A                   
+Iwfbwsqs            Feajuewpnb          A                   Anhjijftr           C                   Ls                  Aoetnkuhhdej        A                   Kvhrjcboa           A                   
+A                   Hf                  Kexxwfm             Hbofgnjq            Hgphuegfyhrivp      M                   Glvjduz             Lrnndpqmkyaagxr     Kwfkuhjyvyyrevp     A                   
+Ehzfu               A                   J                   Latpbwlihooo        A                   Lqtjarmyarlyc       A                   Drzuhilofwurflp     Crsb                Gcdjkx              
+Hyz                 Ghlvbxmpkje         Fbhwyv              A                   C                   Hnqiqhktgllapy      Lfmwelcl            Gf                  Asq                 Hoole               
+. . . . .
+Zzmwpgsuaugkst      Zzn                 Zznihhgxdgmyhuo     Zznpguoqpcyi        Zzoausluxcyl        Zzorcpqf            Zzouchffuine        Zzp                 Zzpak               Zzpgj               
+Zzptkujbibacl       Zzpxzfor            Zzqmzlxwe           Zzqsuw              Zzqwhdoak           Zzqxbhrq            Zzrrrxrf            Zzrzefdnt           Zzsbdmhhlhm         Zzsg                
+Zzsmertavevxmb      Zzsqzvc             Zzsxdvupq           Zztct               Zztmnwcrbulcpet     Zztylvhtorjgwmw     Zztyvburmvhjvcb     Zzuhccx             Zzunjjizqikj        Zzv                 
+Zzvaujbspauiv       Zzvhqxx             Zzviusofixaqazl     Zzvkxafanr          Zzvqeeeqz           Zzvuuvfoxrre        Zzvvzfgvlo          Zzwh                Zzwoyvcnrpy         Zzx                 
+Zzx                 Zzxyguzdvh          Zzy                 Zzyezhogj           Zzyhkczoctb         Zzykk               Zzypv               Zzyydwahalfa        Zzzgcipiqpkign      Zzzpsas             
+
+Selection sorting for Word Array (size : 70000) .....
+SelectionSort_WordArray (size : 70000) took   6496.088 [millisecond]
+
+After sorting word array (size : 70000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zzmwpgsuaugkst      Zzn                 Zznihhgxdgmyhuo     Zznpguoqpcyi        Zzoausluxcyl        Zzorcpqf            Zzouchffuine        Zzp                 Zzpak               Zzpgj               
+Zzptkujbibacl       Zzpxzfor            Zzqmzlxwe           Zzqsuw              Zzqwhdoak           Zzqxbhrq            Zzrrrxrf            Zzrzefdnt           Zzsbdmhhlhm         Zzsg                
+Zzsmertavevxmb      Zzsqzvc             Zzsxdvupq           Zztct               Zztmnwcrbulcpet     Zztylvhtorjgwmw     Zztyvburmvhjvcb     Zzuhccx             Zzunjjizqikj        Zzv                 
+Zzvaujbspauiv       Zzvhqxx             Zzviusofixaqazl     Zzvkxafanr          Zzvqeeeqz           Zzvuuvfoxrre        Zzvvzfgvlo          Zzwh                Zzwoyvcnrpy         Zzx                 
+Zzx                 Zzxyguzdvh          Zzy                 Zzyezhogj           Zzyhkczoctb         Zzykk               Zzypv               Zzyydwahalfa        Zzzgcipiqpkign      Zzzpsas             
+
+
+=================================================================================
+Randomly generated Word Array (size : 80000)
+Qioelt              Bxkxmnlbolvqfi      E                   Tnrasraorenra       Onemlathxqvepj      Ltyvfxdwut          Bhwg                Q                   Gchqwjhkzpwtfz      Ixoltf              
+Jlimkmiydo          Cdjq                Jnxgdr              Fbbmyvpx            Ujhosynbqzk         C                   Agqei               Tq                  Maho                Mmyd                
+Kpxvpq              D                   Gmxtngghqmt         Zznqhaqhaf          Hzmbuigns           Vgtncnbnydoxbjv     Ffvyu               J                   Twqjnsqqbteypc      Fwd                 
+Lktptfytza          Mepbyuokyjsvex      Vtoiown             Ctzfryrtfzbfko      Wqqxpsghm           Tv                  Nrv                 Pmbzgnttef          Rd                  Xpa                 
+Dyzqejwudp          Kjf                 Tltk                Qf                  Zstnblwlds          Cxezo               V                   Dbwajlyf            Skszsydkqlzlr       Clsmexizsfhrb       
+. . . . .
+Oaxsvdhesfqmf       Jbnkik              Ur                  Bhnik               Ubb                 Clqqycucbwgeagz     Ipfpsqlw            Yf                  Mhofutw             Afvhnogssw          
+Ypn                 Dbezb               Zjfu                Cgkvujxun           Lfvnatwsccmrle      Lajld               Pomybjspjbjtg       Iqmcnha             Yzqig               Ugebcbqb            
+Rd                  Zyhtgnrevqk         Tmoous              Jpmddhovm           Qhhkla              Fxugdamwugqs        Clpu                Yzdj                Kopsre              Ptfgzsmovue         
+T                   Qziofqr             Acgswouiozcn        Npe                 Lqe                 Gtgll               Jzbsusgt            I                   Kxicqvbheswc        Uzfgmctpwwfue       
+Fl                  Ssaafugufhd         Oxhvert             Ukvklkxskesojf      Rpmkmifbksg         Lvzxsbtwxceyy       Snbjycaidxrgm       Thkqltpxsvt         Yfowrrcnbonhbz      Ejqghvmvol          
+
+Quick sorting for Word Array (size : 80000) .....
+QuickSort_WordArray (size : 80000) took     51.496[millisecond], 
+After sorting word array (size : 80000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zzjsoe              Zzjwvcd             Zzk                 Zzkfznnkrgyc        Zzkliif             Zzkuk               Zzkzesktekvp        Zzl                 Zzlmlkmubsbvnyg     Zzlpzdcugbmfyn      
+Zzlul               Zzlvyix             Zzm                 Zzmynngm            Zzndtadii           Zzngxntay           Zznqhaqhaf          Zznxcciixsz         Zzoajuysvbhuxfx     Zzocbtmtbno         
+Zzohlomcyapoq       Zzopu               Zzovhixoaqpm        Zzp                 Zzpiuisxjeqn        Zzqqc               Zzqywicvzpaak       Zzratuc             Zzrczs              Zzrtanb             
+Zzruetk             Zzrxvbgilpmgg       Zzs                 Zzsidrydjtqojbb     Zzssuvsiz           Zztrzpwgwaz         Zzuwlprbtztwn       Zzuxsk              Zzvnkt              Zzvpwlayydwyk       
+Zzvqk               Zzwg                Zzwnhuhb            Zzxm                Zzxnggfayaxgwlu     Zzxtmeqxrclk        Zzzhtcxo            Zzziyt              Zzzw                Zzzwrjbuzyjmbir     
+
+Word Array (size : 80000) after Shuffling
+Fqyjhellgmoyhl      A                   Itmrjaakzbhneiw     Bca                 Iechrzzejsrqmk      Jblaoxgc            Abbbjefzprmdlo      Kofuestlf           Eevw                Hursxncaywxs        
+Axftcjbgazz         Cnf                 A                   Adigzkkp            Byg                 B                   Hvug                Jkceoavbujzgya      Hrol                Izxhaccfnsydx       
+Jjlczjz             Gbbvpffhhe          I                   Antbvsg             Hmwfeiv             Jfac                Gjbtqmkfzwc         Gmbkkmcxyemhg       Dwinwzafhozkfwx     D                   
+Cq                  Ihxdctfyejya        Gdchfrczqbmow       Fsgudjqbak          Kjfdojbzetpfh       Cshpquwigbpxdc      Ddrwf               E                   Amkabctai           A                   
+Crb                 A                   A                   Dajv                Hen                 Fxkcfhp             Gjoikfbhf           A                   Atbpnnlzuoerkk      Izsiwpnn            
+. . . . .
+Zzjsoe              Zzjwvcd             Zzk                 Zzkfznnkrgyc        Zzkliif             Zzkuk               Zzkzesktekvp        Zzl                 Zzlmlkmubsbvnyg     Zzlpzdcugbmfyn      
+Zzlul               Zzlvyix             Zzm                 Zzmynngm            Zzndtadii           Zzngxntay           Zznqhaqhaf          Zznxcciixsz         Zzoajuysvbhuxfx     Zzocbtmtbno         
+Zzohlomcyapoq       Zzopu               Zzovhixoaqpm        Zzp                 Zzpiuisxjeqn        Zzqqc               Zzqywicvzpaak       Zzratuc             Zzrczs              Zzrtanb             
+Zzruetk             Zzrxvbgilpmgg       Zzs                 Zzsidrydjtqojbb     Zzssuvsiz           Zztrzpwgwaz         Zzuwlprbtztwn       Zzuxsk              Zzvnkt              Zzvpwlayydwyk       
+Zzvqk               Zzwg                Zzwnhuhb            Zzxm                Zzxnggfayaxgwlu     Zzxtmeqxrclk        Zzzhtcxo            Zzziyt              Zzzw                Zzzwrjbuzyjmbir     
+
+Selection sorting for Word Array (size : 80000) .....
+SelectionSort_WordArray (size : 80000) took   8707.779 [millisecond]
+
+After sorting word array (size : 80000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zzjsoe              Zzjwvcd             Zzk                 Zzkfznnkrgyc        Zzkliif             Zzkuk               Zzkzesktekvp        Zzl                 Zzlmlkmubsbvnyg     Zzlpzdcugbmfyn      
+Zzlul               Zzlvyix             Zzm                 Zzmynngm            Zzndtadii           Zzngxntay           Zznqhaqhaf          Zznxcciixsz         Zzoajuysvbhuxfx     Zzocbtmtbno         
+Zzohlomcyapoq       Zzopu               Zzovhixoaqpm        Zzp                 Zzpiuisxjeqn        Zzqqc               Zzqywicvzpaak       Zzratuc             Zzrczs              Zzrtanb             
+Zzruetk             Zzrxvbgilpmgg       Zzs                 Zzsidrydjtqojbb     Zzssuvsiz           Zztrzpwgwaz         Zzuwlprbtztwn       Zzuxsk              Zzvnkt              Zzvpwlayydwyk       
+Zzvqk               Zzwg                Zzwnhuhb            Zzxm                Zzxnggfayaxgwlu     Zzxtmeqxrclk        Zzzhtcxo            Zzziyt              Zzzw                Zzzwrjbuzyjmbir     
+
+
+=================================================================================
+Randomly generated Word Array (size : 90000)
+Othamvdiieulst      Hpmnlfzxmlpli       Imwllfvtoo          Corl                Jtathpvdmq          Pybcw               L                   Xbuapp              Dckirewpxvtnd       Flwafmeqqvx         
+Zwrhql              Nkwtoknubfi         Abefr               Rwtdjengjnukvp      Whpkbj              Qwyed               Vbmxms              Qipvnmgofkpex       A                   Nnlqkqn             
+Goacnfvpyroz        Hcwya               Cml                 Gi                  M                   Rn                  Xcrkiw              Jwenseyxoroniw      Dltyndtuffj         Eyxjdondwjcxk       
+Sfbyhfukv           Tcsydknosfae        Axfkwfrxriqd        Onrh                P                   Muoluijfdxlizwb     F                   Miqshbkghyf         Zepkndw             B                   
+Uvkfwdiowpy         Gzhqqsie            Jchjhhsz            Xfqkmdia            Hqtqrxvlfr          Azgllp              Ickibfvo            Hyklkyh             Nuzjf               Hggxocmqiblywop     
+. . . . .
+Wkssqxovochtzd      Nddlveaxawosoju     Fwfc                Cpgiaphxo           Llqtei              Vkmbv               Ekkapxvzxe          Ltipbexmnwmx        Rg                  Htydkkpvzthzvrk     
+Dic                 N                   Echcgpsftvatd       Mfizxxkssp          Gotc                Zhrmlnlype          Wmvmeqox            Kljwfmpymw          Kkykxkbpsultqm      Ixoyxmy             
+Vvjejtnsqslkm       Vrafttacfqubc       Wcerliscew          Hkythcvnfjhm        Ckluunmqw           Xehnblwmiyv         Yyjycg              Wfmhsmmwdq          Gweqndxw            Onrjedleekzb        
+Mfzfwsv             Fpihjnfdck          Jztzqxuwyfu         Xp                  Gejs                Scgpxzzhc           Tyjsssr             Bgknfygfdio         Cibgdzjkkrjb        Inxdjzkkb           
+Ohxvxbvusquup       Cg                  Ovx                 Boc                 Mmyypsjcreyipj      Gp                  Unyzppmlxewuviy     Ufs                 Lndbxcd             Qryxdpd             
+
+Quick sorting for Word Array (size : 90000) .....
+QuickSort_WordArray (size : 90000) took     62.574[millisecond], 
+After sorting word array (size : 90000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zzosrppmptwrw       Zzoutee             Zzpbsojp            Zzpeqsooc           Zzppuemveclrgl      Zzqfgfqijkppycc     Zzqgpkx             Zzqjvnirwc          Zzqnvtxeznqlvkl     Zzqo                
+Zzqqfw              Zzqyrzfbqbs         Zzrgmcatg           Zzruqlmlppddtgl     Zzrwlvufsaqjyob     Zzs                 Zzsafukxqbajnt      Zzsd                Zzsqvxmuxzveo       Zztpgvuwmi          
+Zztrbjhfkpzjfg      Zztsvnntukq         Zzttyna             Zzuatrlsfd          Zzuetjhzuobecxg     Zzuhsxacphmm        Zzuu                Zzuuetrqey          Zzuwwtzgb           Zzvag               
+Zzvcxdminznklk      Zzvesjkepwd         Zzvmzhbvvid         Zzvo                Zzvxf               Zzvzwyfci           Zzweupmkacyaygz     Zzwzdvzng           Zzwzpexbi           Zzxhggyue           
+Zzxims              Zzxpoqgnuaz         Zzy                 Zzyhgishspxzr       Zzyhtmsvn           Zzyytwj             Zzzcmmcabsalghz     Zzzhxiguvo          Zzzvqqo             Zzzzwgiu            
+
+Word Array (size : 90000) after Shuffling
+Eg                  Bsdaimlcrqn         Bx                  Ifjzrsvkseld        Dhvacwpjxc          Hbbjmsfspxynsal     Hxqnedje            Bfzu                Cbtqykkxtfg         Hmpxnistxvrme       
+Aqx                 A                   Ctssly              Blwfoqjcvhf         Hxnaqaoufyqhjm      Idorvs              Ify                 Bs                  A                   Aviheubxtqtkjeu     
+Axhraydy            Ixra                Ikgnwydtraldqb      Drqhsmugqehbp       Chztlyawmmoc        Dpom                Dygmcn              Hkxg                Coagrswtnxlgr       Geuksshbzemi        
+Bwjmz               Hjpesdvpa           Dkxckpqchjcbae      Bwmbil              Aeaetm              Fyyuubnhgtf         G                   Gkfj                Gljulhhb            Aorqignzuceen       
+A                   F                   Fsgdzdhb            Ihtnkqixoanpf       Bu                  Gk                  Asg                 Esnwmhink           Cfist               Cvgifvkcxsgwtmd     
+. . . . .
+Zzosrppmptwrw       Zzoutee             Zzpbsojp            Zzpeqsooc           Zzppuemveclrgl      Zzqfgfqijkppycc     Zzqgpkx             Zzqjvnirwc          Zzqnvtxeznqlvkl     Zzqo                
+Zzqqfw              Zzqyrzfbqbs         Zzrgmcatg           Zzruqlmlppddtgl     Zzrwlvufsaqjyob     Zzs                 Zzsafukxqbajnt      Zzsd                Zzsqvxmuxzveo       Zztpgvuwmi          
+Zztrbjhfkpzjfg      Zztsvnntukq         Zzttyna             Zzuatrlsfd          Zzuetjhzuobecxg     Zzuhsxacphmm        Zzuu                Zzuuetrqey          Zzuwwtzgb           Zzvag               
+Zzvcxdminznklk      Zzvesjkepwd         Zzvmzhbvvid         Zzvo                Zzvxf               Zzvzwyfci           Zzweupmkacyaygz     Zzwzdvzng           Zzwzpexbi           Zzxhggyue           
+Zzxims              Zzxpoqgnuaz         Zzy                 Zzyhgishspxzr       Zzyhtmsvn           Zzyytwj             Zzzcmmcabsalghz     Zzzhxiguvo          Zzzvqqo             Zzzzwgiu            
+
+Selection sorting for Word Array (size : 90000) .....
+SelectionSort_WordArray (size : 90000) took  10880.053 [millisecond]
+
+After sorting word array (size : 90000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zzosrppmptwrw       Zzoutee             Zzpbsojp            Zzpeqsooc           Zzppuemveclrgl      Zzqfgfqijkppycc     Zzqgpkx             Zzqjvnirwc          Zzqnvtxeznqlvkl     Zzqo                
+Zzqqfw              Zzqyrzfbqbs         Zzrgmcatg           Zzruqlmlppddtgl     Zzrwlvufsaqjyob     Zzs                 Zzsafukxqbajnt      Zzsd                Zzsqvxmuxzveo       Zztpgvuwmi          
+Zztrbjhfkpzjfg      Zztsvnntukq         Zzttyna             Zzuatrlsfd          Zzuetjhzuobecxg     Zzuhsxacphmm        Zzuu                Zzuuetrqey          Zzuwwtzgb           Zzvag               
+Zzvcxdminznklk      Zzvesjkepwd         Zzvmzhbvvid         Zzvo                Zzvxf               Zzvzwyfci           Zzweupmkacyaygz     Zzwzdvzng           Zzwzpexbi           Zzxhggyue           
+Zzxims              Zzxpoqgnuaz         Zzy                 Zzyhgishspxzr       Zzyhtmsvn           Zzyytwj             Zzzcmmcabsalghz     Zzzhxiguvo          Zzzvqqo             Zzzzwgiu            
+
+
+=================================================================================
+Randomly generated Word Array (size : 100000)
+Kcydxegzgojd        Ykuj                Twphh               Lprg                Lpssdlvp            Gkwmffutlrmbns      Glzyfdpsieq         Cgbwobxcvsxwqay     Tpjlxwprox          Zmhgdwiybwdrsdd     
+Jtepjmhwpchnzj      Hiqw                Vdzotkzy            Lwenybcijgv         Maablmfaoja         Evn                 Bxk                 Gs                  Hti                 Tylcxgmjammjs       
+Zinktdlp            Uhgxrjgwjqsscp      Livssukjket         Bliquiqkplc         Ddeerhblqrjhgg      Fems                Pbqha               Xjydx               Zllekx              Jnscpzzdenunylv     
+Ns                  Ltkdhbekthdxtx      Apomgdm             Oyxumycfjw          Jqd                 Meoapt              Oamtzbmly           Tqlalhthopqgni      Irzhnfnkf           Hb                  
+Vyjydt              Xscfyfq             Rgfmxwyrjyjsjo      Hknjn               Mib                 Vneeeqmzxmptz       Jkqcxhwixm          Jikjiytgjnhmjs      Bwfjujzaavn         Isufed              
+. . . . .
+Z                   Kgwgnbkpgudt        Xuuyiidz            Pvhfvuckknbkxq      Gul                 Nqnifocyerkvdb      Md                  Asgtuwkwtyyvfd      Gatuoebeltgaml      Xflu                
+Srcastlstn          Ffjalmekqekr        Inltbxtbbldv        Mrf                 Fiw                 Xatwfapqofotrw      Hcahluqgcfxrk       Ckqquedtmanrvh      Zimtjvcouuvnc       Vwu                 
+Qbahtrahxhjbex      Xeehreay            Bkn                 Gvrrmwgapm          Lzp                 Vhjhm               Gceetqnuj           Hivqafmsksyb        Hjigkwup            Zekdz               
+Hhdnvrvnia          Kqhheyeyis          Ajztbyqhgrz         Exrkh               Ancxarowtiphi       Mkgscatvkdf         Wtrulx              Rattsenfffppb       Engiqdiyeehhsqq     Zlbfhfvnhrexmmn     
+Yfurfsoonggteen     Ffzo                Nfyr                Spl                 Geoxvzhbgcbsmhp     Hfjfc               Vtgbakekxuj         Cklkuvke            T                   Tfsgind             
+
+Quick sorting for Word Array (size : 100000) .....
+QuickSort_WordArray (size : 100000) took     70.411[millisecond], 
+After sorting word array (size : 100000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zzoltzhfzyp         Zzorhupbhzldkky     Zzovhbte            Zzqaevoas           Zzqdxbe             Zzqiu               Zzqrjfeimkoco       Zzqxoggacn          Zzre                Zzrnkets            
+Zzrzslbwgz          Zzsd                Zzsgxvopq           Zzshonavcxd         Zzsj                Zzsjvdpoxtmzd       Zzsqhyj             Zzsrg               Zztclned            Zzthok              
+Zzthttffgvlmktr     Zztrsntnoakjc       Zztsaaz             Zzu                 Zzue                Zzufjeen            Zzufpdpdzbvzbtr     Zzuke               Zzuqmtrmj           Zzusmglm            
+Zzvgfvtnvsg         Zzvjggt             Zzvkmfcg            Zzwetvuiw           Zzwh                Zzwoausbecxcc       Zzwtghknh           Zzwvoj              Zzwyswtvurh         Zzx                 
+Zzxlfscfqp          Zzxm                Zzxpabmsvedivmg     Zzxqcowyofywy       Zzycjtam            Zzzfzwqvly          Zzzreu              Zzzuxwwxf           Zzzuzytkznqlvza     Zzzwzofdsavfzyz     
+
+Word Array (size : 100000) after Shuffling
+Clhl                Hsk                 Bumsr               A                   C                   Ifwnhodbc           Ftdbypknbqzfaf      Ilye                Ilgyhi              Gpjevu              
+Ijmo                Agleivlctd          Dd                  Hruqfgisswlvvp      Hbbbylbd            Exdtbtetgu          Cdbkwvxwavelk       Gfeynwuomkyxmr      Ghhiw               Ghe                 
+Dampewknfxst        Cuqnyurejwey        Ihujzfhedg          Ddhnuigr            Egwguxugsrznu       Bcmnjmr             Hyvcyptisra         Ekhiz               F                   Falcclbu            
+Hbyykaacg           Bvkajyly            Hzhfjnrhhtqyt       Fi                  Hflfsx              Culltqjyyxog        Fpknucfykfcuipu     Emjtjgliwbanuol     Bmoxglck            Arbcbknumuxthm      
+Imxio               Hlotyrdgnkd         Duiy                Iar                 Gecclyyesidi        Fwmybaeewloe        Hlkhkgqmiygfibe     Elwtn               Fa                  Cjwzizlasbesc       
+. . . . .
+Zzoltzhfzyp         Zzorhupbhzldkky     Zzovhbte            Zzqaevoas           Zzqdxbe             Zzqiu               Zzqrjfeimkoco       Zzqxoggacn          Zzre                Zzrnkets            
+Zzrzslbwgz          Zzsd                Zzsgxvopq           Zzshonavcxd         Zzsj                Zzsjvdpoxtmzd       Zzsqhyj             Zzsrg               Zztclned            Zzthok              
+Zzthttffgvlmktr     Zztrsntnoakjc       Zztsaaz             Zzu                 Zzue                Zzufjeen            Zzufpdpdzbvzbtr     Zzuke               Zzuqmtrmj           Zzusmglm            
+Zzvgfvtnvsg         Zzvjggt             Zzvkmfcg            Zzwetvuiw           Zzwh                Zzwoausbecxcc       Zzwtghknh           Zzwvoj              Zzwyswtvurh         Zzx                 
+Zzxlfscfqp          Zzxm                Zzxpabmsvedivmg     Zzxqcowyofywy       Zzycjtam            Zzzfzwqvly          Zzzreu              Zzzuxwwxf           Zzzuzytkznqlvza     Zzzwzofdsavfzyz     
+
+Selection sorting for Word Array (size : 100000) .....
+SelectionSort_WordArray (size : 100000) took  13253.300 [millisecond]
+
+After sorting word array (size : 100000)
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+A                   A                   A                   A                   A                   A                   A                   A                   A                   A                   
+. . . . .
+Zzoltzhfzyp         Zzorhupbhzldkky     Zzovhbte            Zzqaevoas           Zzqdxbe             Zzqiu               Zzqrjfeimkoco       Zzqxoggacn          Zzre                Zzrnkets            
+Zzrzslbwgz          Zzsd                Zzsgxvopq           Zzshonavcxd         Zzsj                Zzsjvdpoxtmzd       Zzsqhyj             Zzsrg               Zztclned            Zzthok              
+Zzthttffgvlmktr     Zztrsntnoakjc       Zztsaaz             Zzu                 Zzue                Zzufjeen            Zzufpdpdzbvzbtr     Zzuke               Zzuqmtrmj           Zzusmglm            
+Zzvgfvtnvsg         Zzvjggt             Zzvkmfcg            Zzwetvuiw           Zzwh                Zzwoausbecxcc       Zzwtghknh           Zzwvoj              Zzwyswtvurh         Zzx                 
+Zzxlfscfqp          Zzxm                Zzxpabmsvedivmg     Zzxqcowyofywy       Zzycjtam            Zzzfzwqvly          Zzzreu              Zzzuxwwxf           Zzzuzytkznqlvza     Zzzwzofdsavfzyz     
+

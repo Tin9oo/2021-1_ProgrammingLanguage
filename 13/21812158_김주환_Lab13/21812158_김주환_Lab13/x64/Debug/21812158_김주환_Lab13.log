@@ -1,0 +1,19 @@
+﻿  ConsoleDisplay.cpp
+  DLL_EvQ.cpp
+  Event.cpp
+  main_EventGen_DLL_EvQ_EventProc.cpp
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\13\21812158_김주환_Lab13\21812158_김주환_Lab13\main_EventGen_DLL_EvQ_EventProc.cpp(23,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\13\21812158_김주환_Lab13\21812158_김주환_Lab13\main_EventGen_DLL_EvQ_EventProc.cpp(34,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\13\21812158_김주환_Lab13\21812158_김주환_Lab13\main_EventGen_DLL_EvQ_EventProc.cpp(39,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\13\21812158_김주환_Lab13\21812158_김주환_Lab13\main_EventGen_DLL_EvQ_EventProc.cpp(78,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'std::thread::id'입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\13\21812158_김주환_Lab13\21812158_김주환_Lab13\main_EventGen_DLL_EvQ_EventProc.cpp(98,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'std::thread::id'입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\13\21812158_김주환_Lab13\21812158_김주환_Lab13\main_EventGen_DLL_EvQ_EventProc.cpp(50,8): warning C4101: 'eventProcessed' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\13\21812158_김주환_Lab13\21812158_김주환_Lab13\main_EventGen_DLL_EvQ_EventProc.cpp(28,6): warning C4101: 'event_handler_addr' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\13\21812158_김주환_Lab13\21812158_김주환_Lab13\main_EventGen_DLL_EvQ_EventProc.cpp(28,26): warning C4101: 'eventPriority' :참조되지 않은 지역 변수입니다.
+  Thread.cpp
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\13\21812158_김주환_Lab13\21812158_김주환_Lab13\Thread.cpp(27,9): warning C4566: 유니버설 문자 이름 '\u20A9'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\13\21812158_김주환_Lab13\21812158_김주환_Lab13\Thread.cpp(68,9): warning C4566: 유니버설 문자 이름 '\u20A9'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\13\21812158_김주환_Lab13\21812158_김주환_Lab13\Thread.cpp(59,11): warning C4101: 'pEvQ' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\13\21812158_김주환_Lab13\21812158_김주환_Lab13\ConsoleDisplay.cpp(22): warning C4715: 'gotoxy': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  21812158_김주환_Lab13.vcxproj -> D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\13\21812158_김주환_Lab13\x64\Debug\21812158_김주환_Lab13.exe

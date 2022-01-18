@@ -1,0 +1,15 @@
+﻿  DLL_EvQ.cpp
+  main.cpp
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4C_21812158_김주환\Exam4C_21812158_김주환\main.cpp(23,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4C_21812158_김주환\Exam4C_21812158_김주환\main.cpp(32,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4C_21812158_김주환\Exam4C_21812158_김주환\main.cpp(62,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'std::thread::id'입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4C_21812158_김주환\Exam4C_21812158_김주환\main.cpp(77,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'std::thread::id'입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4C_21812158_김주환\Exam4C_21812158_김주환\main.cpp(27,6): warning C4101: 'ev_handler' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4C_21812158_김주환\Exam4C_21812158_김주환\main.cpp(25,10): warning C4101: 'pEvent' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4C_21812158_김주환\Exam4C_21812158_김주환\main.cpp(27,18): warning C4101: 'eventPriority' :참조되지 않은 지역 변수입니다.
+  Thread.cpp
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4C_21812158_김주환\Exam4C_21812158_김주환\Thread.cpp(26,9): warning C4566: 유니버설 문자 이름 '\u20A9'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4C_21812158_김주환\Exam4C_21812158_김주환\Thread.cpp(17,11): warning C4101: 'pEvQ' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4C_21812158_김주환\Exam4C_21812158_김주환\Thread.cpp(73,9): warning C4566: 유니버설 문자 이름 '\u20A9'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  코드를 생성하고 있습니다...
+  Exam4C_21812158_김주환.vcxproj -> D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4C_21812158_김주환\Debug\Exam4C_21812158_김주환.exe

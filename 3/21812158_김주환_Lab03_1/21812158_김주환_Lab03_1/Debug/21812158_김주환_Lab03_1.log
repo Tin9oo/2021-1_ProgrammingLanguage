@@ -1,0 +1,3 @@
+﻿  dal.c
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\3\21812158_김주환_Lab03_1\21812158_김주환_Lab03_1\dal.c(45,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  21812158_김주환_Lab03_1.vcxproj -> D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\3\21812158_김주환_Lab03_1\Debug\21812158_김주환_Lab03_1.exe

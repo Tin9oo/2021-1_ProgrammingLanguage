@@ -1,0 +1,52 @@
+
+Test Array Algorithms :
+   1: Performance Comparison of Selection Sort and Quick Sort for Small Integer Array
+   2: Test Big Rand Array (Array Size : 1,000,000 ~ 10,000,000)
+   3: Performance Measurements of hybrid_QS_SS for Integer Array
+Input menu (-1 to terminate) : 1
+Sorting of an integer array (size :   5) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.00 [milliseconds]
+Sorting of an integer array (size :  10) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.00 [milliseconds]
+Sorting of an integer array (size :  15) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.00 [milliseconds]
+Sorting of an integer array (size :  20) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.00 [milliseconds]
+Sorting of an integer array (size :  25) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.00 [milliseconds]
+Sorting of an integer array (size :  30) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.00 [milliseconds]
+Sorting of an integer array (size :  35) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.00 [milliseconds]
+Sorting of an integer array (size :  40) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.00 [milliseconds]
+Sorting of an integer array (size :  45) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.00 [milliseconds]
+Sorting of an integer array (size :  50) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.00 [milliseconds]
+Sorting of an integer array (size :  55) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.00 [milliseconds]
+Sorting of an integer array (size :  60) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.00 [milliseconds]
+Sorting of an integer array (size :  65) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.00 [milliseconds]
+Sorting of an integer array (size :  70) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.00 [milliseconds]
+Sorting of an integer array (size :  75) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.01 [milliseconds]
+Sorting of an integer array (size :  80) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.01 [milliseconds]
+Sorting of an integer array (size :  85) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.01 [milliseconds]
+Sorting of an integer array (size :  90) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.01 [milliseconds]
+Sorting of an integer array (size :  95) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.01 [milliseconds]
+Sorting of an integer array (size : 100) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.01 [milliseconds]
+Sorting of an integer array (size : 105) : Quick_Sort took       0.00 [milliseconds], Selection_Sort took       0.01 [milliseconds]
+Sorting of an integer array (size : 110) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.01 [milliseconds]
+Sorting of an integer array (size : 115) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.01 [milliseconds]
+Sorting of an integer array (size : 120) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.01 [milliseconds]
+Sorting of an integer array (size : 125) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.01 [milliseconds]
+Sorting of an integer array (size : 130) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.01 [milliseconds]
+Sorting of an integer array (size : 135) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.01 [milliseconds]
+Sorting of an integer array (size : 140) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.02 [milliseconds]
+Sorting of an integer array (size : 145) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.02 [milliseconds]
+Sorting of an integer array (size : 150) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.02 [milliseconds]
+Sorting of an integer array (size : 155) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.02 [milliseconds]
+Sorting of an integer array (size : 160) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.02 [milliseconds]
+Sorting of an integer array (size : 165) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.02 [milliseconds]
+Sorting of an integer array (size : 170) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.02 [milliseconds]
+Sorting of an integer array (size : 175) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.02 [milliseconds]
+Sorting of an integer array (size : 180) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.02 [milliseconds]
+Sorting of an integer array (size : 185) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.03 [milliseconds]
+Sorting of an integer array (size : 190) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.03 [milliseconds]
+Sorting of an integer array (size : 195) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.03 [milliseconds]
+Sorting of an integer array (size : 200) : Quick_Sort took       0.01 [milliseconds], Selection_Sort took       0.03 [milliseconds]
+
+Test Array Algorithms :
+   1: Performance Comparison of Selection Sort and Quick Sort for Small Integer Array
+   2: Test Big Rand Array (Array Size : 1,000,000 ~ 10,000,000)
+   3: Performance Measurements of hybrid_QS_SS for Integer Array
+Input menu (-1 to terminate) : -1

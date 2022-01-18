@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4A_21812158_김주환\Exam4A_21812158_김주환\main.cpp(18,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4A_21812158_김주환\Exam4A_21812158_김주환\main.cpp(30,32): warning C4101: 'numEventProcessed' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4A_21812158_김주환\Exam4A_21812158_김주환\main.cpp(24,9): warning C4101: 'hThrd_EventGenerator' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4A_21812158_김주환\Exam4A_21812158_김주환\main.cpp(22,6): warning C4101: 'ev_handler' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4A_21812158_김주환\Exam4A_21812158_김주환\main.cpp(20,9): warning C4101: 'pEv' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4A_21812158_김주환\Exam4A_21812158_김주환\main.cpp(24,31): warning C4101: 'hThrd_EventHandler' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4A_21812158_김주환\Exam4A_21812158_김주환\main.cpp(30,6): warning C4101: 'count' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4A_21812158_김주환\Exam4A_21812158_김주환\main.cpp(28,9): warning C4101: 'consHndlr' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4A_21812158_김주환\Exam4A_21812158_김주환\main.cpp(22,18): warning C4101: 'eventPriority' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4A_21812158_김주환\Exam4A_21812158_김주환\main.cpp(30,13): warning C4101: 'numEventGenerated' :참조되지 않은 지역 변수입니다.
+  Exam4A_21812158_김주환.vcxproj -> D:\OneDrive - 영남대학교\대학교\2021학년도 1학기\프로그래밍 언어\Exam4\Exam4A_21812158_김주환\Debug\Exam4A_21812158_김주환.exe
